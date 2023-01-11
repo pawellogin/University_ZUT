@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1671961998 source:i:\c++\lab9zad8\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1671963146 source:i:\c++\lab9zad9\main.c
+	<stdio.h>
+	<stdlib.h>
+
