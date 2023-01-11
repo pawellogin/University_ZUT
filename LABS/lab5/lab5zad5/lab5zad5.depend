@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1669282910 source:c:\users\lp53959\desktop\c++\lab5zad5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1669283003 source:i:\c++\lab5zad5\main.c
+	<stdio.h>
+	<stdlib.h>
+
