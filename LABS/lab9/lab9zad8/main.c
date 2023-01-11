@@ -4,6 +4,7 @@
 void zwol(int* tab)
 {
     free(tab);
+    tab=NULL;
 }
 
 int main()
